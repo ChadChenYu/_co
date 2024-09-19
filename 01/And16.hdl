@@ -14,7 +14,4 @@ CHIP And16 {
 
     PARTS:
     // Put your code here:
-    Not(in = sel, out = nsel);
-    And(a = nsel, b = in, out = a);
-    And(b = sel, a = in, out = b);
-}
+
