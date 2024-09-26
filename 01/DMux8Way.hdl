@@ -17,4 +17,13 @@ CHIP DMux8Way {
 
     PARTS:
     // Put your code here:
+    DMux(in = in, sel = sel[2], a = line1, b = line2);
+    
+    Dmux(in = line1, sel = sel[1], a = sline1, b = sline2);
+    DMux(in = sline1, sel = sel[1], a = tline1, b = tline2);
+
+    DMux(in = sline1, sel = sel[0], a = a, b = b);
+    DMux(in = sline2, sel = sel[0], a = c, b = d);
+    DMux(in = tline1, sel = sel[0], a = e, b = f);
+    DMux(in = tline2, sel = sel[0], a = g, b = h);
 }
