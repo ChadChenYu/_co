@@ -14,4 +14,20 @@ CHIP Not16 {
 
     PARTS:
     // Put your code here:
+    Not(a = [0], b = [0], out = [0]);
+    Not(a = [1], b = [1], out = [1]);
+    Not(a = [2], b = [2], out = [2]);
+    Not(a = [3], b = [3], out = [3]);
+    Not(a = [4], b = [4], out = [4]);
+    Not(a = [5], b = [5], out = [5]);
+    Not(a = [6], b = [6], out = [6]);
+    Not(a = [7], b = [7], out = [7]);
+    Not(a = [8], b = [8], out = [8]);
+    Not(a = [9], b = [9], out = [9]);
+    Not(a = [10], b = [10], out = [10]);
+    Not(a = [11], b = [11], out = [11]);
+    Not(a = [12], b = [12], out = [12]);
+    Not(a = [13], b = [13], out = [13]);
+    Not(a = [14], b = [14], out = [14]);
+    Not(a = [15], b = [15], out = [15]);
 }
