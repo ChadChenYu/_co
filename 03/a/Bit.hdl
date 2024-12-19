@@ -15,4 +15,6 @@ CHIP Bit {
 
     PARTS:
     // Put your code here:
+Mux(a = n2, b = in, sel = loader, out = n1);
+DEF(in = n1, out = out, out = n2);
 }
