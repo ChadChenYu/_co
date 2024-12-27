@@ -1,6 +1,6 @@
 #### 資工二 111210518 陳辰鈺 期中作業
 [第一周作業](https://github.com/ChadChenYu/_co/tree/master/01)
-[第二周作業][(](https://github.com/ChadChenYu/_co/tree/master/01))
+[第二周作業](https://github.com/ChadChenYu/_co/tree/master/01)
 [第三周作業](https://github.com/ChadChenYu/_co/tree/master/02)
 [第四周作業](https://github.com/ChadChenYu/_co/tree/master/02)
 [第五周作業](https://github.com/ChadChenYu/_co/tree/master/03/a)
