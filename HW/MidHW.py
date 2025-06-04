@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # =openai API 金鑰=
-openai.api_key = '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'
+openai.api_key = 'APIKEY'
 
 # =Flask API 路由=
 @app.route('/magic_mirror', methods=['POST'])
